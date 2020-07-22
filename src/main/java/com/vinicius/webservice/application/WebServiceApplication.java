@@ -1,4 +1,4 @@
-package com.vinicius.webservice;
+package com.vinicius.webservice.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

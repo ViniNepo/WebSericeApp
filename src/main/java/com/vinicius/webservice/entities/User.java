@@ -1,4 +1,4 @@
-package com.vinicius.webservice;
+package com.vinicius.webservice.entities;
 
 import java.io.Serializable;
 
