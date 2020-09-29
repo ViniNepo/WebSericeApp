@@ -1,4 +1,4 @@
-package com.vinicius.webservice.domain;
+package com.vinicius.webservice.model.entities;
 
 import javax.persistence.*;
 import java.io.Serializable;

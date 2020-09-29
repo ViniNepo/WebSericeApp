@@ -1,7 +1,7 @@
 package com.vinicius.webservice;
 
-import com.vinicius.webservice.domain.Categoria;
-import com.vinicius.webservice.domain.Produto;
+import com.vinicius.webservice.model.entities.Categoria;
+import com.vinicius.webservice.model.entities.Produto;
 import com.vinicius.webservice.repository.CategoriaRepository;
 import com.vinicius.webservice.repository.ProdutoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,7 +10,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 @SpringBootApplication
 public class WebServiceApplication implements CommandLineRunner {

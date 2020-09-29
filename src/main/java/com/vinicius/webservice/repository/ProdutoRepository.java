@@ -1,6 +1,6 @@
 package com.vinicius.webservice.repository;
 
-import com.vinicius.webservice.domain.Produto;
+import com.vinicius.webservice.model.entities.Produto;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
